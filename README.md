@@ -11,7 +11,7 @@ Every month, the team manually:
 - Logged into 3 separate cloud billing portals
 - Exported CSVs and cross-referenced account IDs
 - Copy-pasted numbers into PowerPoint slides
-- Spent **4–6 hours per person** on a task that adds no analytical value
+- Spent **1 hour per person** on a task that adds no analytical value
 
 This repository documents the fully automated replacement: a pipeline that ingests billing data from all three clouds, lands it in a central data lake, and surfaces it in a self-refreshing Power BI dashboard.
 
