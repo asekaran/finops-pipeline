@@ -152,11 +152,11 @@ Current dashboard views:
 
 | Task | Before | After |
 |---|---|---|
-| Pull AWS billing data | ~60 min (manual export, format CSV) | 0 min (automatic) |
-| Pull GCP billing data | ~45 min (BigQuery console, manual export) | 0 min (automatic) |
-| Pull Azure billing data | ~30 min (portal export) | 0 min (automatic) |
-| Build monthly slide deck | ~90 min (copy-paste, chart rebuild) | 0 min (dashboard self-updates) |
-| **Total per month** | **~4–6 hours** | **~0 hours** |
+| Pull AWS billing data | ~10 min (manual export, format CSV) | 0 min (automatic) |
+| Pull GCP billing data | ~15 min (BigQuery console, manual export) | 0 min (automatic) |
+| Pull Azure billing data | ~10 min (portal export) | 0 min (automatic) |
+| Build monthly slide deck | ~20 min (copy-paste, chart rebuild) | 0 min (dashboard self-updates) |
+| **Total per month** | **~1 hour** | **~0 hours** |
 
 ---
 
